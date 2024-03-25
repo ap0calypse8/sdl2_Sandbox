@@ -10,7 +10,8 @@ This project implements a Mandelbrot set visualization using SDL2, a popular mul
 - Adjustable parameters such as window size, maximum iterations, and color scheme.
 
 
-##Visualisation
+## Visualisation
+![](https://github.com/ap0calypse8/sdl2_Sandbox/blob/main/Mandelbrot/mandelbrott.png)
   
 
 
