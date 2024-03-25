@@ -14,7 +14,7 @@ This project is a simple visualization of a random walk using SDL2 (Simple Direc
 2. Ensure that SDL2 library is installed on your system.
 3. Compile the source code using a C++ compiler with SDL2 linked.
 
-
+![](https://github.com/ap0calypse8/sdl2_Sandbox/blob/main/randomwalk/ouput.gif)
 
 
 
