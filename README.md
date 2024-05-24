@@ -12,6 +12,12 @@ The Random Walk project simulates a random walk algorithm using SDL2. It generat
 
 The Mandelbrot Set Visualization project renders the Mandelbrot set using SDL2. It explores the fascinating mathematical world of fractals by visualizing the Mandelbrot set, a complex and infinitely detailed mathematical object. This project showcases advanced graphics rendering techniques with SDL2.
 
+### 3. Goldbach's Comet Visualization
+
+A visualization of the hypothetical "Goldbach's Comet" created using the SDL2 library. Inspired by the unsolved Goldbach Conjecture in number theory.
+The Goldbach Conjecture, proposed by Christian Goldbach in 1742, states that every even integer greater than 2 can be expressed as the sum of two prime numbers.
+Explore the celestial wonder of this mathematical curiosity through this simulation.
+
 ## Getting Started
 
 To run any of the projects in this repository, follow the instructions provided in the respective project's README.md file located in its directory. Make sure you have SDL2 installed on your system and any necessary dependencies for building and running the projects.
